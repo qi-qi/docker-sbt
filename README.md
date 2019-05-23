@@ -16,3 +16,6 @@ Run `sbt shell`
 ```
 docker run -it --rm qiqi/sbt sbt shell
 ```
+
+# Docker Repo
+[https://hub.docker.com/r/qiqi/sbt](https://hub.docker.com/r/qiqi/sbt)
